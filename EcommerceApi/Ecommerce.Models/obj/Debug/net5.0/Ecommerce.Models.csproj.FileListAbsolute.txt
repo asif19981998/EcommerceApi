@@ -1,0 +1,15 @@
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Models\bin\Debug\net5.0\Ecommerce.Models.deps.json
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Models\bin\Debug\net5.0\Ecommerce.Models.dll
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Models\bin\Debug\net5.0\ref\Ecommerce.Models.dll
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Models\bin\Debug\net5.0\Ecommerce.Models.pdb
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Models\obj\Debug\net5.0\Ecommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Models\obj\Debug\net5.0\Ecommerce.Models.AssemblyInfoInputs.cache
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Models\obj\Debug\net5.0\Ecommerce.Models.AssemblyInfo.cs
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Models\obj\Debug\net5.0\Ecommerce.Models.csproj.CoreCompileInputs.cache
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Models\obj\Debug\net5.0\Ecommerce.Models.dll
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Models\obj\Debug\net5.0\ref\Ecommerce.Models.dll
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Models\obj\Debug\net5.0\Ecommerce.Models.pdb
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Models\bin\Debug\net5.0\Ecommerce.Models.runtimeconfig.json
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Models\bin\Debug\net5.0\Ecommerce.Models.runtimeconfig.dev.json
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Models\obj\Debug\net5.0\Ecommerce.Models.csprojAssemblyReference.cache
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Models\obj\Debug\net5.0\Ecommerce.Models.genruntimeconfig.cache

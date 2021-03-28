@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ecommerce.BLL.Abstractions\Ecommerce.BLL.Abstractions.csproj" />
+    <ProjectReference Include="..\Ecommerce.BLL\Ecommerce.BLL.csproj" />
+    <ProjectReference Include="..\Ecommerce.DataBaseContext\Ecommerce.DataBaseContext.csproj" />
+    <ProjectReference Include="..\Ecommerce.IoCContainer\Ecommerce.IoCContainer.csproj" />
+    <ProjectReference Include="..\Ecommerce.Models\Ecommerce.Models.csproj" />
+    <ProjectReference Include="..\Ecommerce.Repositories.Abstractions\Ecommerce.Repositories.Abstractions.csproj" />
+    <ProjectReference Include="..\Ecommerce.Repositories\Ecommerce.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

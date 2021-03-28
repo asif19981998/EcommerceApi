@@ -1,0 +1,15 @@
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Repositories.Abstractions\bin\Debug\net5.0\Ecommerce.Repositories.Abstractions.deps.json
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Repositories.Abstractions\bin\Debug\net5.0\Ecommerce.Repositories.Abstractions.dll
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Repositories.Abstractions\bin\Debug\net5.0\ref\Ecommerce.Repositories.Abstractions.dll
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Repositories.Abstractions\bin\Debug\net5.0\Ecommerce.Repositories.Abstractions.pdb
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Repositories.Abstractions\obj\Debug\net5.0\Ecommerce.Repositories.Abstractions.csprojAssemblyReference.cache
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Repositories.Abstractions\obj\Debug\net5.0\Ecommerce.Repositories.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Repositories.Abstractions\obj\Debug\net5.0\Ecommerce.Repositories.Abstractions.AssemblyInfoInputs.cache
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Repositories.Abstractions\obj\Debug\net5.0\Ecommerce.Repositories.Abstractions.AssemblyInfo.cs
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Repositories.Abstractions\obj\Debug\net5.0\Ecommerce.Repositories.Abstractions.csproj.CoreCompileInputs.cache
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Repositories.Abstractions\obj\Debug\net5.0\Ecommerce.Repositories.Abstractions.dll
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Repositories.Abstractions\obj\Debug\net5.0\ref\Ecommerce.Repositories.Abstractions.dll
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Repositories.Abstractions\obj\Debug\net5.0\Ecommerce.Repositories.Abstractions.pdb
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Repositories.Abstractions\bin\Debug\net5.0\Ecommerce.Repositories.Abstractions.runtimeconfig.json
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Repositories.Abstractions\bin\Debug\net5.0\Ecommerce.Repositories.Abstractions.runtimeconfig.dev.json
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.Repositories.Abstractions\obj\Debug\net5.0\Ecommerce.Repositories.Abstractions.genruntimeconfig.cache

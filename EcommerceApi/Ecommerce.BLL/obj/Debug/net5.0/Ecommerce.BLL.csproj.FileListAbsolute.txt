@@ -1,0 +1,15 @@
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL\bin\Debug\net5.0\Ecommerce.BLL.deps.json
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL\bin\Debug\net5.0\Ecommerce.BLL.dll
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL\bin\Debug\net5.0\ref\Ecommerce.BLL.dll
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL\bin\Debug\net5.0\Ecommerce.BLL.pdb
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.csprojAssemblyReference.cache
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.AssemblyInfoInputs.cache
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.AssemblyInfo.cs
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.csproj.CoreCompileInputs.cache
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.dll
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL\obj\Debug\net5.0\ref\Ecommerce.BLL.dll
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.pdb
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL\bin\Debug\net5.0\Ecommerce.BLL.runtimeconfig.json
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL\bin\Debug\net5.0\Ecommerce.BLL.runtimeconfig.dev.json
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.genruntimeconfig.cache

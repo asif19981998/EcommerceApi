@@ -1,0 +1,15 @@
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.IoCContainer\bin\Debug\net5.0\Ecommerce.IoCContainer.deps.json
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.IoCContainer\bin\Debug\net5.0\Ecommerce.IoCContainer.dll
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.IoCContainer\bin\Debug\net5.0\ref\Ecommerce.IoCContainer.dll
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.IoCContainer\bin\Debug\net5.0\Ecommerce.IoCContainer.pdb
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.IoCContainer\obj\Debug\net5.0\Ecommerce.IoCContainer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.IoCContainer\obj\Debug\net5.0\Ecommerce.IoCContainer.AssemblyInfoInputs.cache
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.IoCContainer\obj\Debug\net5.0\Ecommerce.IoCContainer.AssemblyInfo.cs
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.IoCContainer\obj\Debug\net5.0\Ecommerce.IoCContainer.csproj.CoreCompileInputs.cache
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.IoCContainer\obj\Debug\net5.0\Ecommerce.IoCContainer.dll
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.IoCContainer\obj\Debug\net5.0\ref\Ecommerce.IoCContainer.dll
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.IoCContainer\obj\Debug\net5.0\Ecommerce.IoCContainer.pdb
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.IoCContainer\bin\Debug\net5.0\Ecommerce.IoCContainer.runtimeconfig.json
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.IoCContainer\bin\Debug\net5.0\Ecommerce.IoCContainer.runtimeconfig.dev.json
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.IoCContainer\obj\Debug\net5.0\Ecommerce.IoCContainer.csprojAssemblyReference.cache
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.IoCContainer\obj\Debug\net5.0\Ecommerce.IoCContainer.genruntimeconfig.cache
