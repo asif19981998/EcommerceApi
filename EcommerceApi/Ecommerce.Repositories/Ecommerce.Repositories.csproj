@@ -18,6 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Ecommerce.DataBaseContext\Ecommerce.DataBaseContext.csproj" />
     <ProjectReference Include="..\Ecommerce.Repositories.Abstractions\Ecommerce.Repositories.Abstractions.csproj" />
   </ItemGroup>
 

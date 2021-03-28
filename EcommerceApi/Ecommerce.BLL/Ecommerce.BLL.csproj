@@ -17,4 +17,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Ecommerce.BLL.Abstractions\Ecommerce.BLL.Abstractions.csproj" />
+    <ProjectReference Include="..\Ecommerce.Repositories.Abstractions\Ecommerce.Repositories.Abstractions.csproj" />
+    <ProjectReference Include="..\Ecommerce.Repositories\Ecommerce.Repositories.csproj" />
+  </ItemGroup>
+
 </Project>

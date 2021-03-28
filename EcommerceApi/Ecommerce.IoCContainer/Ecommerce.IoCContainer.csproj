@@ -17,4 +17,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Ecommerce.BLL.Abstractions\Ecommerce.BLL.Abstractions.csproj" />
+    <ProjectReference Include="..\Ecommerce.BLL\Ecommerce.BLL.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -27,7 +27,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.Models\\Ecommerce.Models.csproj": {
+                "projectPath": "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.Models\\Ecommerce.Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -103,7 +107,17 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.BLL.Abstractions\\Ecommerce.BLL.Abstractions.csproj": {
+                "projectPath": "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.BLL.Abstractions\\Ecommerce.BLL.Abstractions.csproj"
+              },
+              "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.Repositories.Abstractions\\Ecommerce.Repositories.Abstractions.csproj": {
+                "projectPath": "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.Repositories.Abstractions\\Ecommerce.Repositories.Abstractions.csproj"
+              },
+              "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.Repositories\\Ecommerce.Repositories.csproj": {
+                "projectPath": "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.Repositories\\Ecommerce.Repositories.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -259,7 +273,14 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.BLL.Abstractions\\Ecommerce.BLL.Abstractions.csproj": {
+                "projectPath": "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.BLL.Abstractions\\Ecommerce.BLL.Abstractions.csproj"
+              },
+              "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.BLL\\Ecommerce.BLL.csproj": {
+                "projectPath": "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.BLL\\Ecommerce.BLL.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -411,7 +432,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.Models\\Ecommerce.Models.csproj": {
+                "projectPath": "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.Models\\Ecommerce.Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -488,6 +513,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.DataBaseContext\\Ecommerce.DataBaseContext.csproj": {
+                "projectPath": "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.DataBaseContext\\Ecommerce.DataBaseContext.csproj"
+              },
               "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.Repositories.Abstractions\\Ecommerce.Repositories.Abstractions.csproj": {
                 "projectPath": "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.Repositories.Abstractions\\Ecommerce.Repositories.Abstractions.csproj"
               }

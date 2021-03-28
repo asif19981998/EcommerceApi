@@ -11,5 +11,8 @@ E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.
 E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL.Abstractions\obj\Debug\net5.0\Ecommerce.BLL.Abstractions.pdb
 E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL.Abstractions\bin\Debug\net5.0\Ecommerce.BLL.Abstractions.runtimeconfig.json
 E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL.Abstractions\bin\Debug\net5.0\Ecommerce.BLL.Abstractions.runtimeconfig.dev.json
-E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL.Abstractions\obj\Debug\net5.0\Ecommerce.BLL.Abstractions.csprojAssemblyReference.cache
 E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL.Abstractions\obj\Debug\net5.0\Ecommerce.BLL.Abstractions.genruntimeconfig.cache
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL.Abstractions\obj\Debug\net5.0\Ecommerce.BLL.Abstractions.csprojAssemblyReference.cache
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL.Abstractions\bin\Debug\net5.0\Ecommerce.Models.dll
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL.Abstractions\bin\Debug\net5.0\Ecommerce.Models.pdb
+E:\Dot Net Class\SelfPractise\SolidArchitectureImplement\EcommerceApi\Ecommerce.BLL.Abstractions\obj\Debug\net5.0\Ecommerce.BLL.Abstractions.csproj.CopyComplete

@@ -1383,6 +1383,9 @@
       },
       "Ecommerce.BLL/1.0.0": {
         "dependencies": {
+          "Ecommerce.BLL.Abstractions": "1.0.0",
+          "Ecommerce.Repositories": "1.0.0",
+          "Ecommerce.Repositories.Abstractions": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.4"
         },
@@ -1395,6 +1398,7 @@
       },
       "Ecommerce.BLL.Abstractions/1.0.0": {
         "dependencies": {
+          "Ecommerce.Models": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.4"
         },
@@ -1420,6 +1424,8 @@
       },
       "Ecommerce.IoCContainer/1.0.0": {
         "dependencies": {
+          "Ecommerce.BLL": "1.0.0",
+          "Ecommerce.BLL.Abstractions": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.4"
         },
@@ -1444,6 +1450,7 @@
       },
       "Ecommerce.Repositories/1.0.0": {
         "dependencies": {
+          "Ecommerce.DataBaseContext": "1.0.0",
           "Ecommerce.Repositories.Abstractions": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.4"
@@ -1457,6 +1464,7 @@
       },
       "Ecommerce.Repositories.Abstractions/1.0.0": {
         "dependencies": {
+          "Ecommerce.Models": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.4"
         },

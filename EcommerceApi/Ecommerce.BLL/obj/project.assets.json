@@ -1519,6 +1519,81 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "Ecommerce.BLL.Abstractions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Ecommerce.Models": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.4",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.4"
+        },
+        "compile": {
+          "bin/placeholder/Ecommerce.BLL.Abstractions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ecommerce.BLL.Abstractions.dll": {}
+        }
+      },
+      "Ecommerce.DataBaseContext/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Ecommerce.Models": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.4",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.4"
+        },
+        "compile": {
+          "bin/placeholder/Ecommerce.DataBaseContext.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ecommerce.DataBaseContext.dll": {}
+        }
+      },
+      "Ecommerce.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.4",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.4"
+        },
+        "compile": {
+          "bin/placeholder/Ecommerce.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ecommerce.Models.dll": {}
+        }
+      },
+      "Ecommerce.Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Ecommerce.DataBaseContext": "1.0.0",
+          "Ecommerce.Repositories.Abstractions": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.4",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.4"
+        },
+        "compile": {
+          "bin/placeholder/Ecommerce.Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ecommerce.Repositories.dll": {}
+        }
+      },
+      "Ecommerce.Repositories.Abstractions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Ecommerce.Models": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.4",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.4"
+        },
+        "compile": {
+          "bin/placeholder/Ecommerce.Repositories.Abstractions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ecommerce.Repositories.Abstractions.dll": {}
+        }
       }
     }
   },
@@ -5787,10 +5862,38 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "Ecommerce.BLL.Abstractions/1.0.0": {
+      "type": "project",
+      "path": "../Ecommerce.BLL.Abstractions/Ecommerce.BLL.Abstractions.csproj",
+      "msbuildProject": "../Ecommerce.BLL.Abstractions/Ecommerce.BLL.Abstractions.csproj"
+    },
+    "Ecommerce.DataBaseContext/1.0.0": {
+      "type": "project",
+      "path": "../Ecommerce.DataBaseContext/Ecommerce.DataBaseContext.csproj",
+      "msbuildProject": "../Ecommerce.DataBaseContext/Ecommerce.DataBaseContext.csproj"
+    },
+    "Ecommerce.Models/1.0.0": {
+      "type": "project",
+      "path": "../Ecommerce.Models/Ecommerce.Models.csproj",
+      "msbuildProject": "../Ecommerce.Models/Ecommerce.Models.csproj"
+    },
+    "Ecommerce.Repositories/1.0.0": {
+      "type": "project",
+      "path": "../Ecommerce.Repositories/Ecommerce.Repositories.csproj",
+      "msbuildProject": "../Ecommerce.Repositories/Ecommerce.Repositories.csproj"
+    },
+    "Ecommerce.Repositories.Abstractions/1.0.0": {
+      "type": "project",
+      "path": "../Ecommerce.Repositories.Abstractions/Ecommerce.Repositories.Abstractions.csproj",
+      "msbuildProject": "../Ecommerce.Repositories.Abstractions/Ecommerce.Repositories.Abstractions.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Ecommerce.BLL.Abstractions >= 1.0.0",
+      "Ecommerce.Repositories >= 1.0.0",
+      "Ecommerce.Repositories.Abstractions >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 5.0.4",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.4",
@@ -5823,7 +5926,17 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.BLL.Abstractions\\Ecommerce.BLL.Abstractions.csproj": {
+              "projectPath": "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.BLL.Abstractions\\Ecommerce.BLL.Abstractions.csproj"
+            },
+            "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.Repositories.Abstractions\\Ecommerce.Repositories.Abstractions.csproj": {
+              "projectPath": "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.Repositories.Abstractions\\Ecommerce.Repositories.Abstractions.csproj"
+            },
+            "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.Repositories\\Ecommerce.Repositories.csproj": {
+              "projectPath": "E:\\Dot Net Class\\SelfPractise\\SolidArchitectureImplement\\EcommerceApi\\Ecommerce.Repositories\\Ecommerce.Repositories.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

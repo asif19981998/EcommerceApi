@@ -11,7 +11,7 @@ namespace Ecommerce.DataBaseContext
 {
     public class EcommerceDbContext:DbContext
     {
-        public EcommerceDbContext(DbContextOptions options):base(options)
+        public EcommerceDbContext(DbContextOptions options) : base(options)
         {
 
         }
