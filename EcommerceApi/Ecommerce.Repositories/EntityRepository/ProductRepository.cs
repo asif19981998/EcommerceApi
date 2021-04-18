@@ -17,9 +17,9 @@ namespace Ecommerce.Repositories
     public class ProductRepository:BaseRepository<Product>,IProuductRespository
     {
         private EcommerceDbContext _db;
-        public ProductRepository(DbContext db):base(db)
+        public ProductRepository(EcommerceDbContext db):base(db)
         {
-            _db = (EcommerceDbContext)db;
+            _db = db;
         }
     }
 }
